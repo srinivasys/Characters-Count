@@ -1,0 +1,22 @@
+.items-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  list-style-type: none;
+  font-family: 'Roboto';
+  margin-left: 10px;
+}
+
+.name {
+  color: #0f172a;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.count {
+  color: #0f172a;
+  font-size: 25px;
+  font-weight: 600;
+  margin-left: 5px;
+}
